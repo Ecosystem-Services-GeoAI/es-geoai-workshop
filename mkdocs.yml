@@ -1,6 +1,6 @@
 site_name: Ecosystem Services GeoAI Lab
-site_url: https://haoyuliao.github.io/2026-iale-workshop-ces-mapping/
-repo_url: https://github.com/haoyuliao/2026-iale-workshop-ces-mapping
+site_url: https://Ecosystem-Services-GeoAI.github.io/es-geoai/
+repo_url: https://github.com/Ecosystem-Services-GeoAI/es-geoai
 
 theme:
   name: material
