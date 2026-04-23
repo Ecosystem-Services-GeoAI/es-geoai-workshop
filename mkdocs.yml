@@ -1,6 +1,6 @@
 site_name: Ecosystem Services GeoAI Lab
-site_url: https://Ecosystem-Services-GeoAI.github.io/es-geoai-workshop/
-repo_url: https://github.com/Ecosystem-Services-GeoAI/es-geoai-workshop
+site_url: https://Ecosystem-Services-GeoAI.github.io/es-geoai-programs/
+repo_url: https://github.com/Ecosystem-Services-GeoAI/es-geoai-programs
 
 theme:
   name: material
